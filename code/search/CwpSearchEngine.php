@@ -3,7 +3,7 @@
 /**
  * Provides interface for generating search results for a SolrIndex
  */
-class CwpSearchEngine extends Object {
+class CwpSearchEngine extends SS_Object {
 	
 	/**
 	 * Default search options
